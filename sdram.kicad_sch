@@ -3717,7 +3717,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "18f615eb-232f-4347-8d0b-f00107bb9837")
-		(property "Reference" "C?"
+		(property "Reference" "C79"
 			(at 51.054 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3781,7 +3781,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
-					(reference "C?")
+					(reference "C79")
 					(unit 1)
 				)
 			)
@@ -3798,7 +3798,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "34769917-d961-4b11-8d84-3bcb85bfbfe2")
-		(property "Reference" "C?"
+		(property "Reference" "C82"
 			(at 77.724 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3862,7 +3862,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
-					(reference "C?")
+					(reference "C82")
 					(unit 1)
 				)
 			)
@@ -3879,7 +3879,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a03a152-7e53-4807-a1c7-f10bd91091ec")
-		(property "Reference" "C?"
+		(property "Reference" "C85"
 			(at 161.544 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3943,7 +3943,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
-					(reference "C?")
+					(reference "C85")
 					(unit 1)
 				)
 			)
@@ -4038,7 +4038,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5eaa6e70-91bb-4636-8926-80724bf7ce7e")
-		(property "Reference" "U?"
+		(property "Reference" "U4"
 			(at 92.202 50.038 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4258,7 +4258,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
-					(reference "U?")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -4275,7 +4275,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "749b5386-ae4b-48b8-b6f8-2467b6ae748e")
-		(property "Reference" "C?"
+		(property "Reference" "C84"
 			(at 152.654 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4339,7 +4339,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
-					(reference "C?")
+					(reference "C84")
 					(unit 1)
 				)
 			)
@@ -4356,7 +4356,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7d2df3b6-165d-4397-b4ba-c3001c8221cc")
-		(property "Reference" "C?"
+		(property "Reference" "C81"
 			(at 68.834 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4420,7 +4420,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
-					(reference "C?")
+					(reference "C81")
 					(unit 1)
 				)
 			)
@@ -4437,7 +4437,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9f186356-fd56-4191-91b2-e538da32c66d")
-		(property "Reference" "C?"
+		(property "Reference" "C83"
 			(at 143.764 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4501,7 +4501,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
-					(reference "C?")
+					(reference "C83")
 					(unit 1)
 				)
 			)
@@ -4518,7 +4518,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ab5a7ec4-2228-4c52-a4ca-11ec57e3d3c8")
-		(property "Reference" "C?"
+		(property "Reference" "C87"
 			(at 179.324 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4582,7 +4582,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
-					(reference "C?")
+					(reference "C87")
 					(unit 1)
 				)
 			)
@@ -4599,7 +4599,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b2fa1ed0-7c91-4651-ab31-e1ce7f503756")
-		(property "Reference" "C?"
+		(property "Reference" "C80"
 			(at 59.944 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4663,7 +4663,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
-					(reference "C?")
+					(reference "C80")
 					(unit 1)
 				)
 			)
@@ -4759,7 +4759,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9c6b840-b1f7-438c-b551-85f603221b53")
-		(property "Reference" "C?"
+		(property "Reference" "C86"
 			(at 170.434 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4823,7 +4823,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
-					(reference "C?")
+					(reference "C86")
 					(unit 1)
 				)
 			)
@@ -4919,7 +4919,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e40c9696-ae4c-49d8-8a04-58894a5e1405")
-		(property "Reference" "C?"
+		(property "Reference" "C78"
 			(at 42.164 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4983,7 +4983,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
-					(reference "C?")
+					(reference "C78")
 					(unit 1)
 				)
 			)
@@ -5070,7 +5070,7 @@
 	)
 	(sheet_instances
 		(path "/"
-			(page "11")
+			(page "6")
 		)
 	)
 )

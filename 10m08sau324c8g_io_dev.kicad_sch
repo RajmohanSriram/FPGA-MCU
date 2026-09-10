@@ -1941,7 +1941,7 @@
 		(uuid "4781e6b3-5af3-4c84-967c-d34506fc7438")
 	)
 	(junction
-		(at 50.8 162.56)
+		(at 44.45 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "49378303-c822-4334-b2f0-4aff597a5086")
@@ -2025,7 +2025,7 @@
 		(uuid "7a302371-f75b-440d-a563-0bd53180141f")
 	)
 	(junction
-		(at 50.8 191.77)
+		(at 44.45 191.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7aaee3c1-dcd0-4539-983d-139952ce1525")
@@ -2055,7 +2055,7 @@
 		(uuid "88409d92-0330-420e-ad66-6b2d9c8cdb79")
 	)
 	(junction
-		(at 50.8 219.71)
+		(at 44.45 219.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8c17b867-6898-4bad-af9b-7a42df4d2e56")
@@ -2067,7 +2067,7 @@
 		(uuid "8e09beac-e206-4699-88f3-fd7a72009904")
 	)
 	(junction
-		(at 50.8 106.68)
+		(at 44.45 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "98ab260b-98b9-424c-a520-2cb317855ece")
@@ -2103,7 +2103,7 @@
 		(uuid "a8e77260-090c-4338-bc78-96fe18b30406")
 	)
 	(junction
-		(at 50.8 134.62)
+		(at 44.45 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "acf005ea-a6e1-4391-8246-8becbc6bc626")
@@ -2264,7 +2264,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 189.23) (xy 50.8 191.77)
+			(xy 44.45 189.23) (xy 44.45 191.77)
 		)
 		(stroke
 			(width 0)
@@ -2354,7 +2354,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 217.17) (xy 50.8 219.71)
+			(xy 44.45 217.17) (xy 44.45 219.71)
 		)
 		(stroke
 			(width 0)
@@ -2424,7 +2424,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 121.92) (xy 50.8 124.46)
+			(xy 44.45 121.92) (xy 44.45 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2444,7 +2444,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 149.86) (xy 50.8 152.4)
+			(xy 44.45 149.86) (xy 44.45 152.4)
 		)
 		(stroke
 			(width 0)
@@ -2484,7 +2484,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 162.56) (xy 68.58 162.56)
+			(xy 64.77 162.56) (xy 62.23 162.56)
 		)
 		(stroke
 			(width 0)
@@ -2504,7 +2504,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 134.62) (xy 53.34 134.62)
+			(xy 44.45 134.62) (xy 46.99 134.62)
 		)
 		(stroke
 			(width 0)
@@ -2614,7 +2614,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 191.77) (xy 68.58 191.77)
+			(xy 64.77 191.77) (xy 62.23 191.77)
 		)
 		(stroke
 			(width 0)
@@ -2634,7 +2634,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 106.68) (xy 68.58 106.68)
+			(xy 64.77 106.68) (xy 62.23 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2944,7 +2944,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 162.56) (xy 53.34 162.56)
+			(xy 44.45 162.56) (xy 46.99 162.56)
 		)
 		(stroke
 			(width 0)
@@ -3144,7 +3144,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 219.71) (xy 53.34 219.71)
+			(xy 44.45 219.71) (xy 46.99 219.71)
 		)
 		(stroke
 			(width 0)
@@ -3224,7 +3224,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 137.16) (xy 71.12 134.62)
+			(xy 64.77 137.16) (xy 64.77 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3504,7 +3504,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 162.56) (xy 50.8 162.56)
+			(xy 41.91 162.56) (xy 44.45 162.56)
 		)
 		(stroke
 			(width 0)
@@ -3544,7 +3544,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 104.14) (xy 50.8 106.68)
+			(xy 44.45 104.14) (xy 44.45 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3684,7 +3684,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 194.31) (xy 71.12 191.77)
+			(xy 64.77 194.31) (xy 64.77 191.77)
 		)
 		(stroke
 			(width 0)
@@ -3834,7 +3834,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 222.25) (xy 71.12 219.71)
+			(xy 64.77 222.25) (xy 64.77 219.71)
 		)
 		(stroke
 			(width 0)
@@ -3874,7 +3874,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 134.62) (xy 50.8 134.62)
+			(xy 41.91 134.62) (xy 44.45 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3884,7 +3884,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 109.22) (xy 71.12 106.68)
+			(xy 64.77 109.22) (xy 64.77 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3894,7 +3894,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 165.1) (xy 71.12 162.56)
+			(xy 64.77 165.1) (xy 64.77 162.56)
 		)
 		(stroke
 			(width 0)
@@ -4074,7 +4074,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 106.68) (xy 50.8 106.68)
+			(xy 41.91 106.68) (xy 44.45 106.68)
 		)
 		(stroke
 			(width 0)
@@ -4214,7 +4214,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 207.01) (xy 50.8 209.55)
+			(xy 44.45 207.01) (xy 44.45 209.55)
 		)
 		(stroke
 			(width 0)
@@ -4254,7 +4254,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 219.71) (xy 68.58 219.71)
+			(xy 64.77 219.71) (xy 62.23 219.71)
 		)
 		(stroke
 			(width 0)
@@ -4264,7 +4264,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 191.77) (xy 53.34 191.77)
+			(xy 44.45 191.77) (xy 46.99 191.77)
 		)
 		(stroke
 			(width 0)
@@ -4424,7 +4424,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 179.07) (xy 50.8 181.61)
+			(xy 44.45 179.07) (xy 44.45 181.61)
 		)
 		(stroke
 			(width 0)
@@ -4514,7 +4514,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 160.02) (xy 50.8 162.56)
+			(xy 44.45 160.02) (xy 44.45 162.56)
 		)
 		(stroke
 			(width 0)
@@ -4524,7 +4524,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 132.08) (xy 50.8 134.62)
+			(xy 44.45 132.08) (xy 44.45 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4684,7 +4684,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 219.71) (xy 50.8 219.71)
+			(xy 41.91 219.71) (xy 44.45 219.71)
 		)
 		(stroke
 			(width 0)
@@ -4814,7 +4814,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 191.77) (xy 50.8 191.77)
+			(xy 41.91 191.77) (xy 44.45 191.77)
 		)
 		(stroke
 			(width 0)
@@ -4844,7 +4844,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 106.68) (xy 53.34 106.68)
+			(xy 44.45 106.68) (xy 46.99 106.68)
 		)
 		(stroke
 			(width 0)
@@ -4864,7 +4864,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 93.98) (xy 50.8 96.52)
+			(xy 44.45 93.98) (xy 44.45 96.52)
 		)
 		(stroke
 			(width 0)
@@ -5154,7 +5154,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 134.62) (xy 68.58 134.62)
+			(xy 64.77 134.62) (xy 62.23 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5742,434 +5742,941 @@
 		)
 		(uuid "fb59e6b1-c164-4d42-befb-e78cc080a192")
 	)
-	(hierarchical_label "FPGA_PB1"
-		(shape output)
-		(at 279.4 100.33 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "00383021-87d7-4d39-98c7-46e74e1636c9")
-	)
-	(hierarchical_label "SSD_EN_4"
-		(shape input)
-		(at 220.98 62.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "014ced12-f34d-47f7-9595-debe836f6c04")
-	)
-	(hierarchical_label "LED_10"
-		(shape input)
-		(at 185.42 212.09 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "02e378b5-c633-479e-b390-c58a6f324b19")
-	)
-	(hierarchical_label "DIP_4"
-		(shape input)
-		(at 83.82 134.62 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "037ef6a1-6f7d-40a4-bb57-cdcc00a6fe07")
-	)
-	(hierarchical_label "DIP_1"
-		(shape input)
-		(at 48.26 106.68 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0bcd2c0c-092d-4e7f-8dbb-09adef91ee19")
-	)
-	(hierarchical_label "SS_SEG_DP"
-		(shape input)
-		(at 340.36 177.8 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0c005bab-01c2-4859-9214-ce834c770efa")
-	)
-	(hierarchical_label "SS_SEG_A"
-		(shape input)
-		(at 340.36 133.35 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0e922450-1e5d-41a9-b342-d5631cb5cb6d")
-	)
-	(hierarchical_label "LED_3"
-		(shape input)
-		(at 148.59 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "12896305-5ea5-4239-9971-2380931c3c3d")
-	)
-	(hierarchical_label "SS_SEG_F"
-		(shape input)
-		(at 340.36 165.1 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "14819ac7-ea9e-437d-ab71-8e4d03eda9b8")
-	)
-	(hierarchical_label "SS_SEG_B"
+	(global_label "SS_SEG_B"
 		(shape input)
 		(at 340.36 139.7 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "2fb80fb0-0e75-4f97-84ec-561f6a5ffaf3")
-	)
-	(hierarchical_label "DIP_6"
-		(shape input)
-		(at 83.82 162.56 180)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(uuid "0820f6d8-ba8b-48b2-be32-6e51d09a20ac")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 328.1221 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
-			(justify right)
 		)
-		(uuid "38594aa5-2ce3-4b75-90a4-e7fa6893d060")
 	)
-	(hierarchical_label "SS_SEG_G"
-		(shape input)
-		(at 340.36 171.45 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4a36abd3-142a-499e-aa50-7f57769f5818")
-	)
-	(hierarchical_label "SSD_EN_6"
-		(shape input)
-		(at 344.17 62.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5086655e-5051-4546-a761-97c4caaf0042")
-	)
-	(hierarchical_label "LED_2"
-		(shape input)
-		(at 186.69 97.79 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "54b12d38-3662-474d-b596-705dfcb946f2")
-	)
-	(hierarchical_label "LED_1"
-		(shape input)
-		(at 148.59 97.79 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5563356f-6fdd-42e7-80e7-c44a7827b14a")
-	)
-	(hierarchical_label "DIP_5"
-		(shape input)
-		(at 48.26 162.56 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "559f9565-eb98-49f7-be75-392fd8a6cbab")
-	)
-	(hierarchical_label "LED_6"
-		(shape input)
-		(at 185.42 156.21 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6316d84c-86a8-4749-aa07-2c0986fd1812")
-	)
-	(hierarchical_label "SSD_EN_2"
-		(shape input)
-		(at 101.6 62.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6cb6f05f-3ba1-463c-903e-28152c4dc63c")
-	)
-	(hierarchical_label "FPGA_PB4"
-		(shape output)
-		(at 279.4 187.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "779d222e-2d6e-4b3f-b533-c9dd78db20d2")
-	)
-	(hierarchical_label "DIP_10"
-		(shape input)
-		(at 83.82 219.71 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7a228d9c-ed54-4cb4-a4ee-20592da69dcf")
-	)
-	(hierarchical_label "DIP_2"
-		(shape input)
-		(at 83.82 106.68 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7af4962c-e139-451c-b080-b6cec963a753")
-	)
-	(hierarchical_label "LED_7"
-		(shape input)
-		(at 147.32 185.42 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7e65db58-f3b5-4ab0-8a3b-e5d104547669")
-	)
-	(hierarchical_label "LED_4"
+	(global_label "LED_4"
 		(shape input)
 		(at 186.69 127 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "83ea59bd-2e4e-40df-96ae-879a89c811a0")
+		(uuid "1abacfcb-f75f-4ed9-8bea-582658c4859e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 178.0806 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
-	(hierarchical_label "SS_SEG_E"
+	(global_label "SS_SEG_G"
 		(shape input)
-		(at 340.36 158.75 180)
+		(at 340.36 171.45 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "874dfaa2-55f8-4e60-9285-b537c1a62230")
-	)
-	(hierarchical_label "SS_SEG_C"
-		(shape input)
-		(at 340.36 146.05 180)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(uuid "222a0ef3-bd62-4e22-81d6-aa5c2b91b19a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 328.1221 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
-			(justify right)
 		)
-		(uuid "8a218f60-1f7c-49b3-995c-eca5db0af6f9")
 	)
-	(hierarchical_label "DIP_9"
-		(shape input)
-		(at 48.26 219.71 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9284d3b7-5181-4cdf-905b-61e9d540858d")
-	)
-	(hierarchical_label "SS_SEG_D"
-		(shape input)
-		(at 340.36 152.4 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9965927d-2435-4c56-b569-c939d2e49b97")
-	)
-	(hierarchical_label "SSD_EN_3"
-		(shape input)
-		(at 162.56 62.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9b965de5-9d85-4998-90dc-ea5f4bcad1c7")
-	)
-	(hierarchical_label "LED_8"
-		(shape input)
-		(at 185.42 185.42 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9cc9321a-0e27-4d60-883d-347696e6d03a")
-	)
-	(hierarchical_label "DIP_7"
-		(shape input)
-		(at 48.26 191.77 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "acf81046-bc56-4042-891c-c7683c3e7163")
-	)
-	(hierarchical_label "FPGA_PB2"
-		(shape output)
-		(at 279.4 129.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b5de8a4b-3ed3-4a27-8980-c97a60a134f3")
-	)
-	(hierarchical_label "LED_5"
-		(shape input)
-		(at 147.32 156.21 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bd236ab5-4222-4061-99f6-46d9b8d51433")
-	)
-	(hierarchical_label "DIP_8"
-		(shape input)
-		(at 83.82 191.77 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bdb5c811-f5a3-431c-b238-b137ee3c74ea")
-	)
-	(hierarchical_label "DIP_3"
-		(shape input)
-		(at 48.26 134.62 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "be13888b-e798-4ac4-b51a-f6e949e69ce3")
-	)
-	(hierarchical_label "LED_9"
-		(shape input)
-		(at 147.32 212.09 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ccdf4328-fdb6-41fe-a831-5d34cad2d441")
-	)
-	(hierarchical_label "SSD_EN_1"
-		(shape input)
-		(at 39.37 62.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ea18156d-e768-46fb-82c6-c0d7dd9e731d")
-	)
-	(hierarchical_label "FPGA_PB5"
-		(shape output)
-		(at 279.4 215.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f1abcb61-0689-4a5b-b953-268ff4a25d4a")
-	)
-	(hierarchical_label "FPGA_PB3"
-		(shape output)
-		(at 279.4 158.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f389febb-4191-4d1f-9810-c88a241e9c35")
-	)
-	(hierarchical_label "SSD_EN_5"
+	(global_label "SSD_EN_5"
 		(shape input)
 		(at 280.67 62.23 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "f8047977-5308-4062-9e2c-5167e68699e7")
+		(uuid "2477bcb5-002f-414a-bb0e-20099bcf892b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 268.3716 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "FPGA_PB3"
+		(shape output)
+		(at 279.4 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "25247c57-dbf3-42c3-a654-9d9e74b117a2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 291.8195 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "SSD_EN_3"
+		(shape input)
+		(at 162.56 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "26397472-8d24-442e-b787-2da3e72b3fdd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 150.2616 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_6"
+		(shape input)
+		(at 83.82 162.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "291549b6-9e61-4342-b702-f366be9cb7d3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 75.5129 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SS_SEG_A"
+		(shape input)
+		(at 340.36 133.35 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "29f8bb58-ff86-41c9-9110-4b9fdb1aba16")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 328.3035 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_2"
+		(shape input)
+		(at 83.82 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3267f48f-b5f9-4ebc-88bb-8f1c2e1f8fbe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 75.5129 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_1"
+		(shape input)
+		(at 148.59 97.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "32e42233-258b-4bec-a268-e9359188ed43")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 139.9806 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_10"
+		(shape input)
+		(at 185.42 212.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "544ffc5b-8742-4aef-a9b7-9ca7ec5062a1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.6011 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_7"
+		(shape input)
+		(at 41.91 191.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "63832b3a-3b4e-4ac9-8eee-0a88e085d0d3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.6029 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_6"
+		(shape input)
+		(at 185.42 156.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "70f5a3cd-de52-4057-ab8c-c4fa0d25311c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.8106 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_5"
+		(shape input)
+		(at 147.32 156.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "76211c54-ca4c-4765-9532-4a62cb2e0182")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.7106 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_8"
+		(shape input)
+		(at 185.42 185.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7e787d0f-243d-4cfe-bc9d-53018f6e6838")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.8106 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SS_SEG_DP"
+		(shape input)
+		(at 340.36 177.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8270dcc7-65ab-4132-8b10-def52376a486")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 326.8521 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SSD_EN_6"
+		(shape input)
+		(at 344.17 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8281af96-ed26-4f97-9caa-bdc8bd57cc80")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 331.8716 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SS_SEG_D"
+		(shape input)
+		(at 340.36 152.4 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8834b598-3662-4fc4-913a-fb55b884a084")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 328.1221 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SS_SEG_C"
+		(shape input)
+		(at 340.36 146.05 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8a33a455-8a3d-4d51-a07a-41437f6d554a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 328.1221 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SSD_EN_1"
+		(shape input)
+		(at 39.37 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8be15eed-5e52-4cf7-bf4f-521b15cafc48")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 27.0716 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_2"
+		(shape input)
+		(at 186.69 97.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8cde47ac-6e83-4357-8591-7e4fb7a86432")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 178.0806 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_4"
+		(shape input)
+		(at 83.82 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8d867926-63ef-432a-bd14-d70df68c9788")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 75.5129 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SSD_EN_2"
+		(shape input)
+		(at 101.6 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "91612c28-1aad-423d-924d-1b722ce3d03d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 89.3016 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SS_SEG_F"
+		(shape input)
+		(at 340.36 165.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9494c1f2-af1e-408e-8e4f-d78f40008356")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 328.3035 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "FPGA_PB5"
+		(shape output)
+		(at 279.4 215.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab133bf8-5b3f-4142-9ade-94a5df0863ce")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 291.8195 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "DIP_10"
+		(shape input)
+		(at 83.82 219.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "addb246b-5a5c-44e7-ae76-0f52a60fe34e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.3034 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_9"
+		(shape input)
+		(at 147.32 212.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b1394355-c191-4f95-b26f-62a77a18db37")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.7106 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_3"
+		(shape input)
+		(at 148.59 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b2a0d111-230f-4a76-aee0-fc4050d9fe3d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 139.9806 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "FPGA_PB1"
+		(shape output)
+		(at 279.4 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "baf30bb2-8024-4c1f-83ff-9be1e38aa289")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 291.8195 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "SSD_EN_4"
+		(shape input)
+		(at 220.98 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c660ea84-a090-412a-916e-c9453127862b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.6816 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_7"
+		(shape input)
+		(at 147.32 185.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c6969ac7-456e-4939-9749-934923a52aa0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.7106 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_3"
+		(shape input)
+		(at 41.91 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c7f65844-6e02-46d9-b151-0b34962a37bc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.6029 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "FPGA_PB4"
+		(shape output)
+		(at 279.4 187.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cbd6f365-4c50-4fb0-af28-54bbee4fa159")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 291.8195 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "FPGA_PB2"
+		(shape output)
+		(at 279.4 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d1841e68-e88c-4bfc-93ae-cf1e74028b42")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 291.8195 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "DIP_1"
+		(shape input)
+		(at 41.91 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d69601c1-e86a-402f-82ff-387665369cc9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.6029 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_8"
+		(shape input)
+		(at 83.82 191.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dd228237-f5bd-45a8-8c47-9cd6041e7817")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 75.5129 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SS_SEG_E"
+		(shape input)
+		(at 340.36 158.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e8158b78-eda8-4bb2-b97c-1924f21bf71b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 328.2431 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_9"
+		(shape input)
+		(at 41.91 219.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f7dc0880-3a2a-4f7b-abbb-db03d23e5292")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.6029 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_5"
+		(shape input)
+		(at 41.91 162.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f96c00a9-0b53-4fda-8ce5-3d98cecd0820")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.6029 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -6261,7 +6768,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "09bb52c5-c583-430b-9180-b09f6e2686e3")
-		(property "Reference" "R?"
+		(property "Reference" "R52"
 			(at 345.694 150.876 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6323,7 +6830,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -6341,7 +6848,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0aa92a8d-dce6-4d46-8818-629cf2eb181c")
-		(property "Reference" "D?"
+		(property "Reference" "D1"
 			(at 167.64 161.6074 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6416,7 +6923,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "D?")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -6434,7 +6941,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b449741-3681-4418-9a8c-baf3e1101084")
-		(property "Reference" "D?"
+		(property "Reference" "D2"
 			(at 167.64 190.8174 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6509,7 +7016,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "D?")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -6527,7 +7034,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c41e047-4002-40ac-89d6-2fa9c2c6e3b1")
-		(property "Reference" "D?"
+		(property "Reference" "D8"
 			(at 205.74 217.4874 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6602,7 +7109,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "D?")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -6619,7 +7126,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1053bf0d-abfd-499b-9552-998f045e5f3d")
-		(property "Reference" "SW?"
+		(property "Reference" "SW17"
 			(at 266.7 210.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6687,7 +7194,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -6862,7 +7369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15c93054-c5d4-4971-80d4-b44e269bd01c")
-		(property "Reference" "U?"
+		(property "Reference" "U5"
 			(at 58.42 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6948,7 +7455,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "U?")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -6966,7 +7473,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17e40638-2ef2-4f99-83f6-6623cd522d94")
-		(property "Reference" "D?"
+		(property "Reference" "D3"
 			(at 167.64 217.4874 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7041,7 +7548,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "D?")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -7058,7 +7565,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ca23a5d-b11e-4675-afc1-88aa8927b3dd")
-		(property "Reference" "R?"
+		(property "Reference" "R45"
 			(at 280.162 223.012 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7122,7 +7629,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -7139,7 +7646,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1d6c1a95-04ed-493a-896f-449d74893d5b")
-		(property "Reference" "Q?"
+		(property "Reference" "Q3"
 			(at 194.31 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7209,7 +7716,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "Q?")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -7226,7 +7733,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1dab762d-bdf1-4afe-8226-0ca5fd4a3e75")
-		(property "Reference" "SW?"
+		(property "Reference" "SW16"
 			(at 266.7 182.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7294,7 +7801,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -7311,7 +7818,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e749ad2-fa0e-4d72-8706-7d613f4c9421")
-		(property "Reference" "R?"
+		(property "Reference" "R44"
 			(at 280.162 195.072 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7375,7 +7882,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -7471,7 +7978,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "24b0b94a-7295-488b-ae0a-8e2190b1edf0")
-		(property "Reference" "R?"
+		(property "Reference" "R38"
 			(at 190.754 125.476 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7533,7 +8040,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -7550,7 +8057,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "270e6688-6bd9-4568-980d-61527105b8a7")
-		(property "Reference" "R?"
+		(property "Reference" "R25"
 			(at 105.41 60.706 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7612,7 +8119,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -7629,7 +8136,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "286c7efe-6210-49b0-9991-1b88fe26fb35")
-		(property "Reference" "R?"
+		(property "Reference" "R31"
 			(at 152.654 125.476 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7691,7 +8198,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -7709,7 +8216,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "301ed496-6d87-42a6-b197-2299d515df17")
-		(property "Reference" "R?"
+		(property "Reference" "R23"
 			(at 83.82 184.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7773,7 +8280,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -7790,7 +8297,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "32c37170-37f8-4db8-acb5-8aef66d3be7b")
-		(property "Reference" "R?"
+		(property "Reference" "R28"
 			(at 151.384 183.896 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7852,7 +8359,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -7860,7 +8367,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 71.12 222.25 0)
+		(at 64.77 222.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7871,7 +8378,7 @@
 		(fields_autoplaced yes)
 		(uuid "32d9b96c-282e-49c7-a9ff-a3f3ad3aaa0b")
 		(property "Reference" "#PWR0129"
-			(at 71.12 228.6 0)
+			(at 64.77 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7882,7 +8389,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 71.12 227.33 0)
+			(at 64.77 227.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7893,7 +8400,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 222.25 0)
+			(at 64.77 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7904,7 +8411,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 222.25 0)
+			(at 64.77 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7915,7 +8422,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 222.25 0)
+			(at 64.77 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8027,7 +8534,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "342f99d2-24c2-42ca-a87f-0da477189db5")
-		(property "Reference" "R?"
+		(property "Reference" "R13"
 			(at 41.91 60.706 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8089,7 +8596,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -8097,7 +8604,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 50.8 100.33 0)
+		(at 44.45 100.33 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -8107,8 +8614,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3530e8e0-ca25-49e5-9b3f-58949ce03de6")
-		(property "Reference" "R?"
-			(at 48.26 99.0599 0)
+		(property "Reference" "R14"
+			(at 41.91 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8119,7 +8626,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 48.26 101.5999 0)
+			(at 41.91 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8130,7 +8637,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.784 100.584 90)
+			(at 43.434 100.584 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8141,7 +8648,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 100.33 0)
+			(at 44.45 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8152,7 +8659,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 50.8 100.33 0)
+			(at 44.45 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8171,7 +8678,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -8267,7 +8774,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "374d3875-f170-4e71-b8de-641e1b7f2055")
-		(property "Reference" "Q?"
+		(property "Reference" "Q2"
 			(at 134.62 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8337,7 +8844,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "Q?")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -8433,7 +8940,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "37ff52f4-e02c-4a70-93e6-d725a240e926")
-		(property "Reference" "R?"
+		(property "Reference" "R51"
 			(at 345.694 144.526 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8495,7 +9002,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -8503,7 +9010,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 71.12 137.16 0)
+		(at 64.77 137.16 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8514,7 +9021,7 @@
 		(fields_autoplaced yes)
 		(uuid "3f9be962-7d28-46d4-9924-3d682f8824b7")
 		(property "Reference" "#PWR0126"
-			(at 71.12 143.51 0)
+			(at 64.77 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8525,7 +9032,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 71.12 142.24 0)
+			(at 64.77 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8536,7 +9043,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 137.16 0)
+			(at 64.77 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8547,7 +9054,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 137.16 0)
+			(at 64.77 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8558,7 +9065,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 137.16 0)
+			(at 64.77 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8591,7 +9098,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "42dbd90b-11ff-4b60-9683-13159b49a508")
-		(property "Reference" "R?"
+		(property "Reference" "R27"
 			(at 151.384 154.686 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8653,7 +9160,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -8661,7 +9168,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 50.8 213.36 0)
+		(at 44.45 213.36 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -8671,8 +9178,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "44ab2797-6d40-4bf4-804a-ff7d6e4c5cc4")
-		(property "Reference" "R?"
-			(at 48.26 212.0899 0)
+		(property "Reference" "R18"
+			(at 41.91 212.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8683,7 +9190,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 48.26 214.6299 0)
+			(at 41.91 214.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8694,7 +9201,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.784 213.614 90)
+			(at 43.434 213.614 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8705,7 +9212,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 213.36 0)
+			(at 44.45 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8716,7 +9223,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 50.8 213.36 0)
+			(at 44.45 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8735,7 +9242,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -8753,7 +9260,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44b15b5d-4abf-40b7-a81d-d62dfbae1a01")
-		(property "Reference" "R?"
+		(property "Reference" "R57"
 			(at 361.95 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8817,7 +9324,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R57")
 					(unit 1)
 				)
 			)
@@ -8825,7 +9332,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 50.8 93.98 0)
+		(at 44.45 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8836,7 +9343,7 @@
 		(fields_autoplaced yes)
 		(uuid "4a5c3630-d4d3-417e-8295-a51936ec681a")
 		(property "Reference" "#PWR0119"
-			(at 50.8 97.79 0)
+			(at 44.45 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8847,7 +9354,7 @@
 			)
 		)
 		(property "Value" "3V3_HMI"
-			(at 50.8 88.9 0)
+			(at 44.45 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8857,7 +9364,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 93.98 0)
+			(at 44.45 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8868,7 +9375,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 93.98 0)
+			(at 44.45 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8879,7 +9386,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 50.8 93.98 0)
+			(at 44.45 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8912,7 +9419,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4bcade3d-b93c-4c02-a19c-3cf1169e0f36")
-		(property "Reference" "R?"
+		(property "Reference" "R54"
 			(at 345.694 163.576 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8974,7 +9481,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -8982,7 +9489,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 71.12 165.1 0)
+		(at 64.77 165.1 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8993,7 +9500,7 @@
 		(fields_autoplaced yes)
 		(uuid "4c22fe49-b9c8-49e2-88e2-ae17c8599e47")
 		(property "Reference" "#PWR0127"
-			(at 71.12 171.45 0)
+			(at 64.77 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9004,7 +9511,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 71.12 170.18 0)
+			(at 64.77 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9015,7 +9522,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 165.1 0)
+			(at 64.77 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9026,7 +9533,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 165.1 0)
+			(at 64.77 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9037,7 +9544,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 165.1 0)
+			(at 64.77 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9071,7 +9578,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4cb3a144-7cc7-4ece-b07e-02c6202f3c39")
-		(property "Reference" "U?"
+		(property "Reference" "U8"
 			(at 240.03 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9157,7 +9664,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "U?")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -9165,7 +9672,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 71.12 109.22 0)
+		(at 64.77 109.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9176,7 +9683,7 @@
 		(fields_autoplaced yes)
 		(uuid "500c9cae-f7f3-4ff8-bc6c-50b5932e4149")
 		(property "Reference" "#PWR0125"
-			(at 71.12 115.57 0)
+			(at 64.77 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9187,7 +9694,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 71.12 114.3 0)
+			(at 64.77 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9198,7 +9705,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 109.22 0)
+			(at 64.77 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9209,7 +9716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 109.22 0)
+			(at 64.77 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9220,7 +9727,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 109.22 0)
+			(at 64.77 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9253,7 +9760,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "542bbe66-a6f3-4648-ba82-23433138f3ae")
-		(property "Reference" "R?"
+		(property "Reference" "R46"
 			(at 283.21 60.706 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9315,7 +9822,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -9569,7 +10076,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5b7dc8f9-0ba8-4273-8ee7-0357e2e92e54")
-		(property "Reference" "SW?"
+		(property "Reference" "SW15"
 			(at 266.7 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9637,7 +10144,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -9645,7 +10152,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 71.12 194.31 0)
+		(at 64.77 194.31 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9656,7 +10163,7 @@
 		(fields_autoplaced yes)
 		(uuid "5bddd47f-b2cf-4479-a9a2-90cf9ad2d2f8")
 		(property "Reference" "#PWR0128"
-			(at 71.12 200.66 0)
+			(at 64.77 200.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9667,7 +10174,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 71.12 199.39 0)
+			(at 64.77 199.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9678,7 +10185,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 194.31 0)
+			(at 64.77 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9689,7 +10196,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 194.31 0)
+			(at 64.77 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9700,7 +10207,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 194.31 0)
+			(at 64.77 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9733,7 +10240,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5c79f55f-1f90-4148-8804-2b3e706df1bb")
-		(property "Reference" "R?"
+		(property "Reference" "R53"
 			(at 345.694 157.226 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9795,7 +10302,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R53")
 					(unit 1)
 				)
 			)
@@ -9813,7 +10320,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64a30d86-7c1a-4374-8a30-efec23de05d9")
-		(property "Reference" "D?"
+		(property "Reference" "D7"
 			(at 205.74 190.8174 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9888,7 +10395,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "D?")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -9896,7 +10403,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 50.8 156.21 0)
+		(at 44.45 156.21 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -9906,8 +10413,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "67d056ac-560a-49a0-a5b3-d960d00c37af")
-		(property "Reference" "R?"
-			(at 48.26 154.9399 0)
+		(property "Reference" "R16"
+			(at 41.91 154.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9918,7 +10425,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 48.26 157.4799 0)
+			(at 41.91 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9929,7 +10436,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.784 156.464 90)
+			(at 43.434 156.464 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9940,7 +10447,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 156.21 0)
+			(at 44.45 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9951,7 +10458,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 50.8 156.21 0)
+			(at 44.45 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9970,7 +10477,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -9988,7 +10495,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a7b75f4-aa96-411f-9c63-7de70ee2143b")
-		(property "Reference" "D?"
+		(property "Reference" "D5"
 			(at 168.91 132.3974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10063,7 +10570,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "D?")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -10160,7 +10667,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6bf5d322-fccb-463d-aeee-843ca2f9e34c")
-		(property "Reference" "U?"
+		(property "Reference" "U10"
 			(at 363.22 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10246,7 +10753,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "U?")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -10254,7 +10761,8 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DIP_x01")
-		(at 60.96 106.68 0)
+		(at 54.61 106.68 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10262,10 +10770,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6e51c911-6ca1-4ba2-9313-c1a05fa8418e")
-		(property "Reference" "SW?"
-			(at 60.96 99.06 0)
+		(property "Reference" "SW3"
+			(at 54.61 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10275,7 +10782,7 @@
 			)
 		)
 		(property "Value" "SW_DIP_x01"
-			(at 60.96 101.6 0)
+			(at 54.61 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10285,7 +10792,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 106.68 0)
+			(at 54.61 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10296,7 +10803,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 106.68 0)
+			(at 54.61 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10307,7 +10814,7 @@
 			)
 		)
 		(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
-			(at 60.96 106.68 0)
+			(at 54.61 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10326,7 +10833,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -10343,7 +10850,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "72ed07f5-b510-4f49-859f-a83a9fb5023c")
-		(property "Reference" "R?"
+		(property "Reference" "R34"
 			(at 189.484 154.686 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10405,7 +10912,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -10422,7 +10929,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7321d904-06fd-4dca-95b3-25e080d3fb47")
-		(property "Reference" "Q?"
+		(property "Reference" "Q1"
 			(at 71.12 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10492,7 +10999,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "Q?")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -10510,7 +11017,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "73b3e6f8-468c-4281-bf7c-2db25735d218")
-		(property "Reference" "R?"
+		(property "Reference" "R21"
 			(at 83.82 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10574,7 +11081,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -10591,7 +11098,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7432a981-045c-4ad3-ab90-bce7e1ed1144")
-		(property "Reference" "Q?"
+		(property "Reference" "Q5"
 			(at 312.42 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10661,7 +11168,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "Q?")
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -10678,7 +11185,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "79798aaf-69c0-4ce9-83f6-7da3d60bb3f2")
-		(property "Reference" "R?"
+		(property "Reference" "R39"
 			(at 223.52 60.706 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10740,7 +11247,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -10758,7 +11265,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79869d27-99dc-4279-9677-2f23d1fb511a")
-		(property "Reference" "U?"
+		(property "Reference" "U9"
 			(at 299.72 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10844,7 +11351,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "U?")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -10862,7 +11369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "825c9703-c3ff-4140-959f-d549e7cd9eb0")
-		(property "Reference" "D?"
+		(property "Reference" "D4"
 			(at 168.91 103.1874 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10937,7 +11444,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "D?")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -10945,7 +11452,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DIP_x01")
-		(at 60.96 219.71 0)
+		(at 54.61 219.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10955,8 +11462,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82bb6546-2f45-4a72-969b-86fd93057da3")
-		(property "Reference" "SW?"
-			(at 60.96 212.09 0)
+		(property "Reference" "SW7"
+			(at 54.61 212.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10966,7 +11473,7 @@
 			)
 		)
 		(property "Value" "SW_DIP_x01"
-			(at 60.96 214.63 0)
+			(at 54.61 214.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10976,7 +11483,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 219.71 0)
+			(at 54.61 219.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10987,7 +11494,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 219.71 0)
+			(at 54.61 219.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10998,7 +11505,7 @@
 			)
 		)
 		(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
-			(at 60.96 219.71 0)
+			(at 54.61 219.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11017,7 +11524,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -11035,7 +11542,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83227583-e830-4f1a-b7ef-0b2f85c56f22")
-		(property "Reference" "R?"
+		(property "Reference" "R33"
 			(at 180.34 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11099,7 +11606,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -11117,7 +11624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a501bdf-252a-4d17-8c0c-66919b165f00")
-		(property "Reference" "R?"
+		(property "Reference" "R47"
 			(at 298.45 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11181,7 +11688,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -11199,7 +11706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b22d9d0-20fc-4d59-a17b-083e5c1f5197")
-		(property "Reference" "SW?"
+		(property "Reference" "SW11"
 			(at 96.52 184.15 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11261,7 +11768,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -11357,7 +11864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c8a1239-9308-4b83-b2f7-f9b25cfeb2ed")
-		(property "Reference" "D?"
+		(property "Reference" "D9"
 			(at 207.01 103.1874 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11432,7 +11939,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "D?")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -11450,7 +11957,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f8aa3d1-872c-47d9-9cf9-03557350e4ec")
-		(property "Reference" "SW?"
+		(property "Reference" "SW12"
 			(at 96.52 212.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11512,7 +12019,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -11520,7 +12027,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DIP_x01")
-		(at 60.96 191.77 0)
+		(at 54.61 191.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11530,8 +12037,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "937cc930-f4e9-46eb-8caf-d8f9e7249b77")
-		(property "Reference" "SW?"
-			(at 60.96 184.15 0)
+		(property "Reference" "SW6"
+			(at 54.61 184.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11541,7 +12048,7 @@
 			)
 		)
 		(property "Value" "SW_DIP_x01"
-			(at 60.96 186.69 0)
+			(at 54.61 186.69 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11551,7 +12058,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 191.77 0)
+			(at 54.61 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11562,7 +12069,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 191.77 0)
+			(at 54.61 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11573,7 +12080,7 @@
 			)
 		)
 		(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
-			(at 60.96 191.77 0)
+			(at 54.61 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11592,7 +12099,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -11688,7 +12195,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9717c40d-feec-49cf-9518-07a0f57b7abc")
-		(property "Reference" "Q?"
+		(property "Reference" "Q4"
 			(at 252.73 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11758,7 +12265,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "Q?")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -11775,7 +12282,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "972de4ca-d303-4903-bfe0-d7c39f09edd9")
-		(property "Reference" "R?"
+		(property "Reference" "R32"
 			(at 165.1 60.706 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11837,7 +12344,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -12013,7 +12520,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cddcb7b-1d0c-4477-99bb-3f3bf0ee4c7d")
-		(property "Reference" "R?"
+		(property "Reference" "R19"
 			(at 57.15 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12077,7 +12584,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -12332,7 +12839,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9f03cdc9-9aae-435c-a006-ba0c10a2b2b6")
-		(property "Reference" "R?"
+		(property "Reference" "R22"
 			(at 83.82 154.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12396,7 +12903,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -12414,7 +12921,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1c8545b-8f35-4027-ab58-212fec55854a")
-		(property "Reference" "SW?"
+		(property "Reference" "SW9"
 			(at 96.52 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12476,7 +12983,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -12493,7 +13000,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a2766d7b-f237-43a1-9951-2674c8f5f76d")
-		(property "Reference" "R?"
+		(property "Reference" "R49"
 			(at 345.694 131.826 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12555,7 +13062,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R49")
 					(unit 1)
 				)
 			)
@@ -12563,7 +13070,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 50.8 121.92 0)
+		(at 44.45 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12574,7 +13081,7 @@
 		(fields_autoplaced yes)
 		(uuid "a4138eae-9fd6-4069-8260-8b8c8da82b41")
 		(property "Reference" "#PWR0120"
-			(at 50.8 125.73 0)
+			(at 44.45 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12585,7 +13092,7 @@
 			)
 		)
 		(property "Value" "3V3_HMI"
-			(at 50.8 116.84 0)
+			(at 44.45 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12595,7 +13102,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 121.92 0)
+			(at 44.45 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12606,7 +13113,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 121.92 0)
+			(at 44.45 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12617,7 +13124,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 50.8 121.92 0)
+			(at 44.45 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12651,7 +13158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a518acba-03c3-4525-ab38-e5294878b6e5")
-		(property "Reference" "U?"
+		(property "Reference" "U6"
 			(at 121.92 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12737,7 +13244,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "U?")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -12745,7 +13252,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 50.8 149.86 0)
+		(at 44.45 149.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12756,7 +13263,7 @@
 		(fields_autoplaced yes)
 		(uuid "b13e1e08-ad61-4f28-a87d-baede2374939")
 		(property "Reference" "#PWR0121"
-			(at 50.8 153.67 0)
+			(at 44.45 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12767,7 +13274,7 @@
 			)
 		)
 		(property "Value" "3V3_HMI"
-			(at 50.8 144.78 0)
+			(at 44.45 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12777,7 +13284,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 149.86 0)
+			(at 44.45 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12788,7 +13295,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 149.86 0)
+			(at 44.45 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12799,7 +13306,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 50.8 149.86 0)
+			(at 44.45 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12911,7 +13418,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b4474352-14bd-4ecd-bd75-4510261fb6d0")
-		(property "Reference" "R?"
+		(property "Reference" "R56"
 			(at 345.694 176.276 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12973,7 +13480,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R56")
 					(unit 1)
 				)
 			)
@@ -13070,7 +13577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb2e4997-dfa7-446c-9329-cba474737bfe")
-		(property "Reference" "D?"
+		(property "Reference" "D6"
 			(at 205.74 161.6074 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13145,7 +13652,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "D?")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -13162,7 +13669,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bce96aea-e125-4885-8ce2-1c3f7fdc25ae")
-		(property "Reference" "R?"
+		(property "Reference" "R42"
 			(at 280.162 136.652 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13226,7 +13733,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -13234,7 +13741,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 50.8 128.27 0)
+		(at 44.45 128.27 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -13244,8 +13751,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c0f49876-85af-4897-9ee4-dc9c5f502ea9")
-		(property "Reference" "R?"
-			(at 48.26 126.9999 0)
+		(property "Reference" "R15"
+			(at 41.91 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13256,7 +13763,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 48.26 129.5399 0)
+			(at 41.91 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13267,7 +13774,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.784 128.524 90)
+			(at 43.434 128.524 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13278,7 +13785,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 128.27 0)
+			(at 44.45 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13289,7 +13796,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 50.8 128.27 0)
+			(at 44.45 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13308,7 +13815,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -13325,7 +13832,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c336258c-3637-4c4c-9df9-f093cac40047")
-		(property "Reference" "R?"
+		(property "Reference" "R29"
 			(at 151.384 210.566 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13387,7 +13894,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -13484,7 +13991,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c79c4247-47f7-4510-a630-a18e632d47f9")
-		(property "Reference" "SW?"
+		(property "Reference" "SW10"
 			(at 96.52 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13546,7 +14053,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -13563,7 +14070,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c85098bf-a486-495e-ae50-4c06dec4d403")
-		(property "Reference" "R?"
+		(property "Reference" "R35"
 			(at 189.484 183.896 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13625,7 +14132,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -13633,7 +14140,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DIP_x01")
-		(at 60.96 162.56 0)
+		(at 54.61 162.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13643,8 +14150,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c899f52a-ca30-431c-84a0-1175450943c8")
-		(property "Reference" "SW?"
-			(at 60.96 154.94 0)
+		(property "Reference" "SW5"
+			(at 54.61 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13654,7 +14161,7 @@
 			)
 		)
 		(property "Value" "SW_DIP_x01"
-			(at 60.96 157.48 0)
+			(at 54.61 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13664,7 +14171,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 162.56 0)
+			(at 54.61 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13675,7 +14182,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 162.56 0)
+			(at 54.61 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13686,7 +14193,7 @@
 			)
 		)
 		(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
-			(at 60.96 162.56 0)
+			(at 54.61 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13705,7 +14212,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -13792,7 +14299,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DIP_x01")
-		(at 60.96 134.62 0)
+		(at 54.61 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13802,8 +14309,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cae85c08-74f7-4b08-8db3-4bf864383f5c")
-		(property "Reference" "SW?"
-			(at 60.96 127 0)
+		(property "Reference" "SW4"
+			(at 54.61 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13813,7 +14320,7 @@
 			)
 		)
 		(property "Value" "SW_DIP_x01"
-			(at 60.96 129.54 0)
+			(at 54.61 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13823,7 +14330,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 134.62 0)
+			(at 54.61 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13834,7 +14341,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 134.62 0)
+			(at 54.61 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13845,7 +14352,7 @@
 			)
 		)
 		(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
-			(at 60.96 134.62 0)
+			(at 54.61 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13864,7 +14371,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -14195,7 +14702,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d1884375-43f0-4b90-a77c-d54fd7bde115")
-		(property "Reference" "R?"
+		(property "Reference" "R30"
 			(at 152.654 96.266 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14257,7 +14764,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -14275,7 +14782,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5eaa854-ed25-4380-b270-67d270914aa5")
-		(property "Reference" "D?"
+		(property "Reference" "D10"
 			(at 207.01 132.3974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14350,7 +14857,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "D?")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -14368,7 +14875,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6920d5c-db76-4206-a3df-804d0018988b")
-		(property "Reference" "R?"
+		(property "Reference" "R20"
 			(at 83.82 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14432,7 +14939,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -14440,7 +14947,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 50.8 179.07 0)
+		(at 44.45 179.07 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14451,7 +14958,7 @@
 		(fields_autoplaced yes)
 		(uuid "d70ad660-d6bd-4377-8ff6-92c85756f679")
 		(property "Reference" "#PWR0122"
-			(at 50.8 182.88 0)
+			(at 44.45 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14462,7 +14969,7 @@
 			)
 		)
 		(property "Value" "3V3_HMI"
-			(at 50.8 173.99 0)
+			(at 44.45 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14472,7 +14979,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 179.07 0)
+			(at 44.45 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14483,7 +14990,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 179.07 0)
+			(at 44.45 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14494,7 +15001,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 50.8 179.07 0)
+			(at 44.45 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14527,7 +15034,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d7991ad0-5c2f-45e1-8b06-8d8e3545016c")
-		(property "Reference" "SW?"
+		(property "Reference" "SW13"
 			(at 266.7 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14595,7 +15102,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -14613,7 +15120,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9e5eb3b-5b5f-4d3b-84c3-72cea0f119dd")
-		(property "Reference" "R?"
+		(property "Reference" "R24"
 			(at 83.82 212.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14677,7 +15184,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -14694,7 +15201,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dc10a86a-e4ad-423c-b273-b10108a3e5ab")
-		(property "Reference" "R?"
+		(property "Reference" "R43"
 			(at 280.162 165.862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14758,7 +15265,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -14854,7 +15361,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "deb4b829-0be6-43ba-827d-ed15e37aba28")
-		(property "Reference" "R?"
+		(property "Reference" "R55"
 			(at 345.694 169.926 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14916,7 +15423,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -15012,7 +15519,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e2e43d90-673c-4849-a5c7-a840755f7135")
-		(property "Reference" "R?"
+		(property "Reference" "R50"
 			(at 345.694 138.176 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15074,7 +15581,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R50")
 					(unit 1)
 				)
 			)
@@ -15091,7 +15598,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e5b89da5-9c11-4923-8e6f-64abfb2ebca0")
-		(property "Reference" "R?"
+		(property "Reference" "R48"
 			(at 346.71 60.706 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15153,7 +15660,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -15171,7 +15678,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8c36470-33c1-4b3a-9c8d-6da794895577")
-		(property "Reference" "R?"
+		(property "Reference" "R40"
 			(at 238.76 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15235,7 +15742,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -15252,7 +15759,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ea668b60-9ac0-4843-85a6-0c6d4a521274")
-		(property "Reference" "SW?"
+		(property "Reference" "SW14"
 			(at 266.7 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15320,7 +15827,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -15328,7 +15835,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 50.8 207.01 0)
+		(at 44.45 207.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15339,7 +15846,7 @@
 		(fields_autoplaced yes)
 		(uuid "eca2bbc8-8a96-46fa-a410-9ffe070e312f")
 		(property "Reference" "#PWR0123"
-			(at 50.8 210.82 0)
+			(at 44.45 210.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15350,7 +15857,7 @@
 			)
 		)
 		(property "Value" "3V3_HMI"
-			(at 50.8 201.93 0)
+			(at 44.45 201.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15360,7 +15867,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 207.01 0)
+			(at 44.45 207.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15371,7 +15878,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 207.01 0)
+			(at 44.45 207.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15382,7 +15889,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 50.8 207.01 0)
+			(at 44.45 207.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15406,7 +15913,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 50.8 185.42 0)
+		(at 44.45 185.42 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -15416,8 +15923,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "edf71a93-9a4b-4c29-a04c-bcd9e775cdd7")
-		(property "Reference" "R?"
-			(at 48.26 184.1499 0)
+		(property "Reference" "R17"
+			(at 41.91 184.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15428,7 +15935,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 48.26 186.6899 0)
+			(at 41.91 186.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15439,7 +15946,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.784 185.674 90)
+			(at 43.434 185.674 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15450,7 +15957,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 185.42 0)
+			(at 44.45 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15461,7 +15968,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 50.8 185.42 0)
+			(at 44.45 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15480,7 +15987,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -15497,7 +16004,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f4776de2-68ff-4ed6-b392-c3c6b76b2d3a")
-		(property "Reference" "R?"
+		(property "Reference" "R36"
 			(at 189.484 210.566 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15559,7 +16066,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -15656,7 +16163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f57d4477-966a-4764-a5e3-64882bbb80b5")
-		(property "Reference" "R?"
+		(property "Reference" "R26"
 			(at 120.65 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15720,7 +16227,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -15738,7 +16245,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5a9d191-57f0-43dd-86db-bddc7469c7b3")
-		(property "Reference" "SW?"
+		(property "Reference" "SW8"
 			(at 96.52 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15800,7 +16307,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "SW?")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -15895,7 +16402,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f89810c7-8a3a-4a27-9fcc-dbf53b2e24bf")
-		(property "Reference" "R?"
+		(property "Reference" "R41"
 			(at 280.162 107.442 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15959,7 +16466,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -15976,7 +16483,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9d6e9ee-9bc9-492f-a66e-e08dd8e2fdce")
-		(property "Reference" "Q?"
+		(property "Reference" "Q6"
 			(at 375.92 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16046,7 +16553,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "Q?")
+					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -16143,7 +16650,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa9f9980-3965-4793-9a3d-2176b65288d7")
-		(property "Reference" "U?"
+		(property "Reference" "U7"
 			(at 181.61 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16229,7 +16736,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "U?")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -16324,7 +16831,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff037706-6bb2-4a26-ba13-794035e21b34")
-		(property "Reference" "R?"
+		(property "Reference" "R37"
 			(at 190.754 96.266 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16386,7 +16893,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/6f33febc-2e34-49f2-8d9e-bcf322044257"
-					(reference "R?")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -16394,7 +16901,7 @@
 	)
 	(sheet_instances
 		(path "/"
-			(page "13")
+			(page "7")
 		)
 	)
 )

@@ -645,7 +645,7 @@
     "top_level_sheets": [
       {
         "filename": "STM32-FPGA.kicad_sch",
-        "name": "Root",
+        "name": "USB&PWR",
         "uuid": "4b16efdc-62f8-4076-8c04-3e23b1eee06f"
       },
       {
@@ -679,37 +679,13 @@
         "uuid": "6f33febc-2e34-49f2-8d9e-bcf322044257"
       }
     ],
-    "used_designators": "#PWR3-5,#PWR31-40,#PWR43-162,C1-4,C38-92,D1-10,FB1,J5,Q1-6,R1-2,R6-7,R18-71,SW3-17,U1,U6,U8-13,U13_1-2,X1,Y4",
+    "used_designators": "#PWR3-5,#PWR31-40,#PWR43-162,C1-92,D1-10,FB1,J2-3,J5,Q1-6,R1-7,R10-71,SW1-17,U1-13,U13_1-2,X1,Y1-4",
     "variants": []
   },
   "sheets": [
     [
       "4b16efdc-62f8-4076-8c04-3e23b1eee06f",
-      "Root"
-    ],
-    [
-      "65aac401-3690-4ebf-8f02-4a63b4039f5e",
-      "Programmer"
-    ],
-    [
-      "7265108c-19c6-4b3e-82c5-956d5e49c1af",
-      "STM32F103C8T6"
-    ],
-    [
-      "8368373c-34aa-4042-86da-19483f195a7b",
-      "10M08SAU324C8G"
-    ],
-    [
-      "e217c130-f357-4384-a165-b4defd056992",
-      "Input and Output Banks"
-    ],
-    [
-      "e0815c14-95d5-4974-bc02-b197f6bf47d6",
-      "ISSI SDRAM 64MB"
-    ],
-    [
-      "db0f0c5f-921e-4376-b88b-67433cd1b996",
-      "Interactive Devices"
+      "USB&PWR"
     ],
     [
       "ec7f004b-4356-4f5c-8bcf-777a271cc592",
@@ -724,12 +700,12 @@
       "10M08SAU324C8G_PWR"
     ],
     [
-      "a5dcf55a-c00b-44e4-be21-50af8ba3dde4",
-      "SDRAM"
-    ],
-    [
       "c8d90e9a-d6c1-4a8d-bf15-78392982d25f",
       "10M08SAU324C8G_IO_BNKS"
+    ],
+    [
+      "a5dcf55a-c00b-44e4-be21-50af8ba3dde4",
+      "SDRAM"
     ],
     [
       "6f33febc-2e34-49f2-8d9e-bcf322044257",

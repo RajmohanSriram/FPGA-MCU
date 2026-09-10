@@ -5,6 +5,222 @@
 	(uuid "c6af83c4-21dd-47e2-bdd4-39c6bd4d0907")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector_Generic:Conn_01x04"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x04"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x04_1_1"
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_02x03_Odd_Even"
 			(pin_names
 				(offset 1.016)
@@ -2771,6 +2987,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 33.02) (xy 256.54 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3438cc96-f55e-4fb6-9160-e838c4f5a0e4")
+	)
+	(wire
+		(pts
 			(xy 132.08 41.91) (xy 129.54 41.91)
 		)
 		(stroke
@@ -2788,6 +3014,16 @@
 			(type default)
 		)
 		(uuid "3c73dda6-f2e2-4351-b6ee-805ded4c8b47")
+	)
+	(wire
+		(pts
+			(xy 240.03 27.94) (xy 240.03 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e59ae4b-3941-43c2-8a4b-b2fa7b606a45")
 	)
 	(polyline
 		(pts
@@ -2981,6 +3217,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 30.48) (xy 240.03 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63cc68ff-6b74-400c-9139-602cb5c6920c")
+	)
+	(wire
+		(pts
 			(xy 43.18 24.13) (xy 46.99 24.13)
 		)
 		(stroke
@@ -3048,6 +3294,16 @@
 			(type default)
 		)
 		(uuid "731e2c97-f0a4-435e-af9d-8303466e0acb")
+	)
+	(wire
+		(pts
+			(xy 240.03 38.1) (xy 240.03 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73447703-d90e-442b-b2fe-aecab41ebf0e")
 	)
 	(wire
 		(pts
@@ -3158,6 +3414,16 @@
 			(type default)
 		)
 		(uuid "8e63227c-3b30-46fb-95a5-aad09a2a7b1f")
+	)
+	(wire
+		(pts
+			(xy 234.95 38.1) (xy 240.03 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ef8ed24-70ca-483e-b477-afb54431fa15")
 	)
 	(wire
 		(pts
@@ -3328,6 +3594,16 @@
 			(type default)
 		)
 		(uuid "cb461f2d-634b-43eb-9571-a39ac37fb7a2")
+	)
+	(wire
+		(pts
+			(xy 234.95 35.56) (xy 256.54 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cedc0c82-8a54-4a66-ba0e-cf1367244ab6")
 	)
 	(wire
 		(pts
@@ -4202,6 +4478,26 @@
 		)
 		(uuid "e1ba9b3b-c90a-4d2e-aed2-ef42eb97f81c")
 	)
+	(label "STM32_SWDIO_HED"
+		(at 256.54 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f1b5b08e-3f27-4acd-9060-dcd47d92eabf")
+	)
+	(label "STM32_SWCLK_HED"
+		(at 256.54 35.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f877e02a-9413-4df0-bb3f-2e51d6de5032")
+	)
 	(label "NRST"
 		(at 100.33 52.07 0)
 		(effects
@@ -4271,7 +4567,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0060a509-6106-4058-8b4d-e00531f207a7")
-		(property "Reference" "Y?"
+		(property "Reference" "Y3"
 			(at 39.37 42.926 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4333,7 +4629,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "Y?")
+					(reference "Y3")
 					(unit 1)
 				)
 			)
@@ -4351,7 +4647,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "01fd80cd-9795-4a6f-bc33-dadaa6878410")
-		(property "Reference" "C?"
+		(property "Reference" "C21"
 			(at 50.038 50.292 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4415,7 +4711,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -4432,7 +4728,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2fda9d90-b278-4bc9-9fb0-721d6d0f4c54")
-		(property "Reference" "Y?"
+		(property "Reference" "Y2"
 			(at 39.37 20.066 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4494,7 +4790,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "Y?")
+					(reference "Y2")
 					(unit 1)
 				)
 			)
@@ -4669,7 +4965,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "45ba26d4-3341-4485-882d-5a474814a004")
-		(property "Reference" "C?"
+		(property "Reference" "C24"
 			(at 102.87 28.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4733,7 +5029,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -4750,7 +5046,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5281b08b-2f1c-4d23-adff-ce1edd7e7e3e")
-		(property "Reference" "C?"
+		(property "Reference" "C28"
 			(at 147.32 28.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4814,7 +5110,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -4831,7 +5127,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "574f3bbd-7951-4171-b2b4-37867a0d05e4")
-		(property "Reference" "R?"
+		(property "Reference" "R7"
 			(at 55.88 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4893,7 +5189,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "R?")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -5145,7 +5441,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7a473a04-ea5c-4464-9782-2a58699344e6")
-		(property "Reference" "C?"
+		(property "Reference" "C25"
 			(at 111.76 28.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5209,7 +5505,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -5226,7 +5522,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8ba80bd6-5f17-4488-9697-a3a1435f5ea7")
-		(property "Reference" "C?"
+		(property "Reference" "C27"
 			(at 129.54 28.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5290,7 +5586,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -5307,7 +5603,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94e43a31-5a94-416d-8d38-06deb17e81cb")
-		(property "Reference" "C?"
+		(property "Reference" "C26"
 			(at 120.65 28.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5371,7 +5667,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -5388,7 +5684,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "99402695-3c5f-4a40-b771-d6364e1f2121")
-		(property "Reference" "C?"
+		(property "Reference" "C19"
 			(at 28.702 50.292 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5452,7 +5748,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -5469,7 +5765,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9bd5463e-55ea-4711-bd98-8b8d5b796369")
-		(property "Reference" "C?"
+		(property "Reference" "C29"
 			(at 157.48 28.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5533,7 +5829,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -5550,7 +5846,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ad65eb64-0cc9-4b80-9ea3-6b9952e785d5")
-		(property "Reference" "C?"
+		(property "Reference" "C20"
 			(at 42.164 119.38 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5614,7 +5910,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -5710,7 +6006,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af714df3-6fa1-4788-86cc-6dcc24f71ae6")
-		(property "Reference" "J?"
+		(property "Reference" "J3"
 			(at 42.926 87.122 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5784,7 +6080,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "J?")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -5881,7 +6177,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b3717c1c-82de-4c46-b67a-5ca3daaac03a")
-		(property "Reference" "C?"
+		(property "Reference" "C22"
 			(at 51.308 27.432 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5945,7 +6241,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -5962,7 +6258,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5ae8334-202f-4fd1-b541-97d6d45a54d0")
-		(property "Reference" "U?"
+		(property "Reference" "U3"
 			(at 119.126 45.466 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6165,7 +6461,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "U?")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -6487,6 +6783,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 240.03 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d79997de-c2ab-4418-956f-e7e63ddf907c")
+		(property "Reference" "#PWR04"
+			(at 240.03 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 240.03 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 240.03 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 240.03 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f760d90b-65a8-405e-ab04-91af5d83ce2f")
+		)
+		(instances
+			(project "STM32-FPGA"
+				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 92.71 31.75 0)
 		(unit 1)
@@ -6497,7 +6872,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d7b43040-a9d0-46fc-b8b5-6f28e8ea5111")
-		(property "Reference" "C?"
+		(property "Reference" "C23"
 			(at 93.98 28.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6561,7 +6936,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -6578,7 +6953,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ddad7ffe-6d85-4bd3-9688-7470f3f4e348")
-		(property "Reference" "R?"
+		(property "Reference" "R6"
 			(at 55.88 21.59 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6640,7 +7015,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "R?")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -6657,7 +7032,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e3651ac1-73d4-4a9b-b47d-185d10a9720e")
-		(property "Reference" "C?"
+		(property "Reference" "C18"
 			(at 27.432 27.432 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6721,7 +7096,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "C?")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -6738,7 +7113,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e3f35af3-fe54-40aa-9344-a5a4593eb12e")
-		(property "Reference" "SW?"
+		(property "Reference" "SW2"
 			(at 45.974 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6800,7 +7175,170 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
-					(reference "SW?")
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 240.03 27.94 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e6f20ea6-062d-40b3-b27e-39b6024e293e")
+		(property "Reference" "#PWR03"
+			(at 240.03 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 240.03 22.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 240.03 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 240.03 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ea63836f-82f7-4d04-b427-937861d82363")
+		)
+		(instances
+			(project "STM32-FPGA"
+				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 229.87 35.56 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(uuid "fc555dd3-a613-4776-8a3b-f532c807e581")
+		(property "Reference" "J?"
+			(at 229.87 27.178 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04"
+			(at 230.886 42.164 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 229.87 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "79c62b58-4c6f-4769-a861-0d71d8eeccdc")
+		)
+		(pin "3"
+			(uuid "3d59f2ec-eff7-4343-8035-13922bcd317b")
+		)
+		(pin "1"
+			(uuid "6694e2ea-d092-4e3e-ab54-72a39fdb5887")
+		)
+		(pin "2"
+			(uuid "cb5b0ebf-e815-4e4e-9e9a-4ef35160f9a3")
+		)
+		(instances
+			(project "STM32-FPGA"
+				(path "/0d612cc7-7cb1-488a-a131-1e71117b8b3f"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -6808,7 +7346,7 @@
 	)
 	(sheet_instances
 		(path "/"
-			(page "9")
+			(page "3")
 		)
 	)
 )

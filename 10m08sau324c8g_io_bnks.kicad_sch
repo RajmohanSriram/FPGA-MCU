@@ -7622,6 +7622,30 @@
 		)
 		(uuid "fcbeb961-d83b-43f1-bfd3-65a7fc57e683")
 	)
+	(global_label "SS_SEG_B"
+		(shape output)
+		(at 374.65 217.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "00900529-9b74-4663-9a4e-110eedfdeb64")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 362.4121 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_DQ7"
 		(shape bidirectional)
 		(at 353.06 119.38 0)
@@ -7670,6 +7694,54 @@
 			)
 		)
 	)
+	(global_label "SSD_EN_3"
+		(shape output)
+		(at 389.89 228.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "06e298c5-8456-4ffb-be60-4c8fb58e688e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 377.5916 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_10"
+		(shape output)
+		(at 359.41 240.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "09aed314-2662-4919-8962-4c760136c7b1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 349.5911 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_A9"
 		(shape bidirectional)
 		(at 260.35 114.3 0)
@@ -7691,6 +7763,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "SSD_EN_5"
+		(shape output)
+		(at 389.89 236.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "101da93d-c818-48fa-be65-572300e5d0f4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 377.5916 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -7739,6 +7835,54 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "FPGA_PB2"
+		(shape input)
+		(at 392.43 228.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "18ecb21c-b74e-4dda-9fd7-c808ca7cae57")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 404.8495 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "DIP_9"
+		(shape output)
+		(at 345.44 236.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "198f9ed7-cafb-48b6-83dc-5f687eccf3ad")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 337.1329 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -7862,6 +8006,30 @@
 			)
 		)
 	)
+	(global_label "LED_5"
+		(shape output)
+		(at 359.41 220.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "32f4f783-459e-4e5e-a1aa-f149213f0583")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.8006 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_DQ15"
 		(shape bidirectional)
 		(at 260.35 134.62 0)
@@ -7958,6 +8126,54 @@
 			)
 		)
 	)
+	(global_label "DIP_2"
+		(shape output)
+		(at 345.44 209.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "419179f4-3f55-43cf-96b9-ed686feab02b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 337.1329 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_8"
+		(shape output)
+		(at 359.41 232.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "46f38355-7710-4635-8ca5-df6fd0068c2c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.8006 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_A10"
 		(shape bidirectional)
 		(at 260.35 109.22 0)
@@ -8006,6 +8222,30 @@
 			)
 		)
 	)
+	(global_label "SS_SEG_G"
+		(shape output)
+		(at 374.65 236.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "528e8026-fb2e-4f1d-a3eb-8977865aaf9e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 362.4121 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_DQ12"
 		(shape bidirectional)
 		(at 314.96 116.84 180)
@@ -8051,6 +8291,102 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "DIP_8"
+		(shape output)
+		(at 345.44 232.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5f1b9daf-1eb3-4b35-a5f1-480fbe3b6a95")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 337.1329 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SS_SEG_A"
+		(shape output)
+		(at 374.65 213.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6178ddb0-b088-4bdb-84f1-e98173a802ab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 362.5935 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SS_SEG_E"
+		(shape output)
+		(at 374.65 228.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "71187388-1f52-4b0a-a51a-e9443c7b04e8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 362.5331 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_4"
+		(shape output)
+		(at 345.44 217.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7294e205-451e-4621-a858-c79ab061c1e6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 337.1329 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -8126,6 +8462,30 @@
 			)
 		)
 	)
+	(global_label "LED_6"
+		(shape output)
+		(at 359.41 224.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7c6ad380-47d3-4fc1-a0a9-a933238a26a7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.8006 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_DQ10"
 		(shape bidirectional)
 		(at 314.96 121.92 180)
@@ -8139,6 +8499,30 @@
 		(uuid "7d473f58-81ad-49f6-bbd1-025e3a5c2388")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 298.5869 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_7"
+		(shape output)
+		(at 359.41 228.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7d9ad39b-fb80-4ffb-931c-e6145b9b2d8c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.8006 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8198,6 +8582,30 @@
 			)
 		)
 	)
+	(global_label "DIP_1"
+		(shape output)
+		(at 345.44 205.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "812f273d-eef4-4a87-b2cc-e6d06abeb255")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 337.1329 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "PRFPGA_TCK"
 		(shape input)
 		(at 72.39 227.33 0)
@@ -8222,6 +8630,54 @@
 			)
 		)
 	)
+	(global_label "FPGA_PB5"
+		(shape input)
+		(at 392.43 240.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "83b016d3-e450-4a04-b339-efbf02d55200")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 404.8495 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "DIP_3"
+		(shape output)
+		(at 345.44 213.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8958abe6-4f77-4f24-b543-3a0efd278f84")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 337.1329 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_A5"
 		(shape bidirectional)
 		(at 314.96 137.16 180)
@@ -8243,6 +8699,54 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_10"
+		(shape output)
+		(at 345.44 240.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8d804a4c-e334-45d0-9161-6e1763a8ac1f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 335.9234 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "FPGA_PB1"
+		(shape input)
+		(at 392.43 224.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "908047f7-2c4f-4f67-9f9f-44ef2d7925a6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 404.8495 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -8294,6 +8798,30 @@
 			)
 		)
 	)
+	(global_label "SSD_EN_1"
+		(shape output)
+		(at 389.89 220.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9446939a-4cd7-4440-b016-33154d34b2dc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 377.5916 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_~{RAS}"
 		(shape output)
 		(at 222.25 124.46 180)
@@ -8307,6 +8835,30 @@
 		(uuid "97bfe14c-534a-4150-a975-ef63453d4171")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 208.4396 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_6"
+		(shape output)
+		(at 345.44 224.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9bc8db23-708c-4774-9584-b70b13ee865b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 337.1329 224.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8342,6 +8894,30 @@
 			)
 		)
 	)
+	(global_label "DIP_7"
+		(shape output)
+		(at 345.44 228.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9df8e490-8689-42a2-9da4-78a04b5b6faa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 337.1329 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_DQ4"
 		(shape bidirectional)
 		(at 353.06 127 0)
@@ -8366,6 +8942,54 @@
 			)
 		)
 	)
+	(global_label "LED_4"
+		(shape output)
+		(at 359.41 217.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a099c768-8076-47e5-93e4-811a193f8f14")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.8006 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SS_SEG_F"
+		(shape output)
+		(at 374.65 232.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a22f1a7d-cda4-494b-8d52-8679b7e48069")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 362.5935 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_DQ8"
 		(shape bidirectional)
 		(at 314.96 142.24 180)
@@ -8387,6 +9011,54 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "SS_SEG_D"
+		(shape output)
+		(at 374.65 224.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a9d63f18-32bf-4f70-be10-99895f1181d4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 362.4121 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "FPGA_PB4"
+		(shape input)
+		(at 392.43 236.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ac1823fc-1721-4a28-a97f-d0f586c8bcee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 404.8495 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -8462,6 +9134,54 @@
 			)
 		)
 	)
+	(global_label "SSD_EN_4"
+		(shape output)
+		(at 389.89 232.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b91615e5-2552-423f-b06b-0210486e687c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 377.5916 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "FPGA_PB3"
+		(shape input)
+		(at 392.43 232.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b9f0f2e4-84c8-49e2-a7b7-71d158f95753")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 404.8495 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "SDRAM_A11"
 		(shape bidirectional)
 		(at 222.25 134.62 180)
@@ -8510,6 +9230,54 @@
 			)
 		)
 	)
+	(global_label "SS_SEG_DP"
+		(shape output)
+		(at 374.65 240.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c76b15be-48d7-4e3a-b500-475589905506")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 361.1421 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DIP_5"
+		(shape output)
+		(at 345.44 220.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c8acec04-9434-4d2f-9041-2d26675cb28a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 337.1329 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_A7"
 		(shape bidirectional)
 		(at 260.35 129.54 0)
@@ -8531,6 +9299,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "SS_SEG_C"
+		(shape output)
+		(at 374.65 220.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cc220be8-7933-455c-832f-9b6ade625518")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 362.4121 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -8582,6 +9374,30 @@
 			)
 		)
 	)
+	(global_label "LED_9"
+		(shape output)
+		(at 359.41 236.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e45ac2c7-6e10-4c48-ae2a-2f677e0ae2b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.8006 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDRAM_DQ13"
 		(shape bidirectional)
 		(at 314.96 111.76 180)
@@ -8630,6 +9446,126 @@
 			)
 		)
 	)
+	(global_label "LED_3"
+		(shape output)
+		(at 359.41 213.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e7e666e1-519f-4cce-9cea-75fa4557fc1e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.8006 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SSD_EN_6"
+		(shape output)
+		(at 389.89 240.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f1dec080-6d14-4813-8301-d6f2fd3331a9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 377.5916 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_2"
+		(shape output)
+		(at 359.41 209.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f42cfbaa-ec77-4011-b5a7-a7318c23765a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.8006 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_1"
+		(shape output)
+		(at 359.41 205.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f4644fda-52b1-4b5a-9ef5-806917f4323e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.8006 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SSD_EN_2"
+		(shape output)
+		(at 389.89 224.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "feed59b2-8e5d-4f1f-9b3c-56c4eb7fb700")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 377.5916 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Device:C_Small")
 		(at 83.82 187.96 0)
@@ -8641,7 +9577,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "068f8fd4-bc11-470f-9704-cf3c53bf58ae")
-		(property "Reference" "C?"
+		(property "Reference" "C77"
 			(at 84.582 185.928 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8705,7 +9641,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "C?")
+					(reference "C77")
 					(unit 1)
 				)
 			)
@@ -8723,7 +9659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "110c589b-7e31-434e-b181-8666baaa353c")
-		(property "Reference" "U13_?"
+		(property "Reference" "U13_1"
 			(at 77.47 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9751,7 +10687,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "U13_?")
+					(reference "U13_1")
 					(unit 7)
 				)
 			)
@@ -9768,7 +10704,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "21b00a79-d6a7-4e2d-8869-8c31d35cc8a2")
-		(property "Reference" "R?"
+		(property "Reference" "R10"
 			(at 43.688 211.582 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9832,7 +10768,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "R?")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -9849,7 +10785,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2b2356df-a7e8-43d4-ad64-3a348627a69b")
-		(property "Reference" "Y?"
+		(property "Reference" "Y4"
 			(at 69.85 181.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9917,7 +10853,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "Y?")
+					(reference "Y4")
 					(unit 1)
 				)
 			)
@@ -9935,7 +10871,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bc5abb7-1a01-4a35-8718-b968273cf610")
-		(property "Reference" "U13_?"
+		(property "Reference" "U13_1"
 			(at 157.48 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10963,7 +11899,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "U13_?")
+					(reference "U13_1")
 					(unit 4)
 				)
 			)
@@ -10981,7 +11917,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c335c42-cfe4-45b2-87ea-db590c5b0640")
-		(property "Reference" "U13_?"
+		(property "Reference" "U13_1"
 			(at 157.48 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12009,7 +12945,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "U13_?")
+					(reference "U13_1")
 					(unit 8)
 				)
 			)
@@ -12027,7 +12963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63bd37af-9906-4286-8c5e-1cbffcbf0de3")
-		(property "Reference" "U13_?"
+		(property "Reference" "U13_1"
 			(at 241.3 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13055,7 +13991,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "U13_?")
+					(reference "U13_1")
 					(unit 9)
 				)
 			)
@@ -13073,7 +14009,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64c600f8-807a-4d2f-bf50-f84a09447ca4")
-		(property "Reference" "U13_?"
+		(property "Reference" "U13_1"
 			(at 77.47 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14101,7 +15037,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "U13_?")
+					(reference "U13_1")
 					(unit 2)
 				)
 			)
@@ -14196,7 +15132,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "751eba31-12af-4479-9e1f-7df8bf088fd7")
-		(property "Reference" "U13_?"
+		(property "Reference" "U13_1"
 			(at 241.3 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15224,7 +16160,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "U13_?")
+					(reference "U13_1")
 					(unit 5)
 				)
 			)
@@ -15242,7 +16178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77761f69-85fc-4d81-8099-50eb77118a68")
-		(property "Reference" "U13_?"
+		(property "Reference" "U13_1"
 			(at 334.01 30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16270,7 +17206,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "U13_?")
+					(reference "U13_1")
 					(unit 6)
 				)
 			)
@@ -16367,7 +17303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a14c5ad2-a155-4991-acc5-cea6512ad425")
-		(property "Reference" "U13_?"
+		(property "Reference" "U13_1"
 			(at 77.47 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17395,7 +18331,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "U13_?")
+					(reference "U13_1")
 					(unit 3)
 				)
 			)
@@ -17412,7 +18348,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ca4cfea2-a5bf-418e-afd0-e165c14addd7")
-		(property "Reference" "R?"
+		(property "Reference" "R12"
 			(at 56.388 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17476,7 +18412,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "R?")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -17494,7 +18430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9c9a3f7-ab0c-4b8a-8ed5-077b4f6f3997")
-		(property "Reference" "U13_?"
+		(property "Reference" "U13_1"
 			(at 334.01 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18522,7 +19458,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "U13_?")
+					(reference "U13_1")
 					(unit 10)
 				)
 			)
@@ -18539,7 +19475,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ee3f13c3-207c-48df-88f9-eaad53214670")
-		(property "Reference" "R?"
+		(property "Reference" "R11"
 			(at 50.038 211.582 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18603,7 +19539,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-					(reference "R?")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -18690,7 +19626,7 @@
 	)
 	(sheet_instances
 		(path "/"
-			(page "12")
+			(page "5")
 		)
 	)
 )
