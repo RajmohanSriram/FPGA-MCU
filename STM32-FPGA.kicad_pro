@@ -647,9 +647,39 @@
         "filename": "STM32-FPGA.kicad_sch",
         "name": "Root",
         "uuid": "4b16efdc-62f8-4076-8c04-3e23b1eee06f"
+      },
+      {
+        "filename": "programmer.kicad_sch",
+        "name": "PROGRAMMER",
+        "uuid": "ec7f004b-4356-4f5c-8bcf-777a271cc592"
+      },
+      {
+        "filename": "stm32f103c8t6.kicad_sch",
+        "name": "STM32F103C8T6",
+        "uuid": "0d612cc7-7cb1-488a-a131-1e71117b8b3f"
+      },
+      {
+        "filename": "10m08sau324c8g_pwr.kicad_sch",
+        "name": "10M08SAU324C8G_PWR",
+        "uuid": "d1ecd166-19ef-487d-ad3e-02a0c454c0b2"
+      },
+      {
+        "filename": "sdram.kicad_sch",
+        "name": "SDRAM",
+        "uuid": "a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
+      },
+      {
+        "filename": "10m08sau324c8g_io_bnks.kicad_sch",
+        "name": "10M08SAU324C8G_IO_BNKS",
+        "uuid": "c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
+      },
+      {
+        "filename": "10m08sau324c8g_io_dev.kicad_sch",
+        "name": "10M08SAU324C8G_IO_DEV",
+        "uuid": "6f33febc-2e34-49f2-8d9e-bcf322044257"
       }
     ],
-    "used_designators": "#PWR3-5,#PWR34-40,#PWR43-88,C1-4,C38-92,D1-10,FB1,J5,Q1-6,R1-2,R6-7,R18-71,SW3-17,U1,U6,U8-13,U13_1-2,X1,Y4",
+    "used_designators": "#PWR3-5,#PWR31-40,#PWR43-162,C1-4,C38-92,D1-10,FB1,J5,Q1-6,R1-2,R6-7,R18-71,SW3-17,U1,U6,U8-13,U13_1-2,X1,Y4",
     "variants": []
   },
   "sheets": [
@@ -680,6 +710,30 @@
     [
       "db0f0c5f-921e-4376-b88b-67433cd1b996",
       "Interactive Devices"
+    ],
+    [
+      "ec7f004b-4356-4f5c-8bcf-777a271cc592",
+      "PROGRAMMER"
+    ],
+    [
+      "0d612cc7-7cb1-488a-a131-1e71117b8b3f",
+      "STM32F103C8T6"
+    ],
+    [
+      "d1ecd166-19ef-487d-ad3e-02a0c454c0b2",
+      "10M08SAU324C8G_PWR"
+    ],
+    [
+      "a5dcf55a-c00b-44e4-be21-50af8ba3dde4",
+      "SDRAM"
+    ],
+    [
+      "c8d90e9a-d6c1-4a8d-bf15-78392982d25f",
+      "10M08SAU324C8G_IO_BNKS"
+    ],
+    [
+      "6f33febc-2e34-49f2-8d9e-bcf322044257",
+      "10M08SAU324C8G_IO_DEV"
     ]
   ],
   "text_variables": {},
