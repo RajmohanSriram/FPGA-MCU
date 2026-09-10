@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "e7758272-00ea-4b7a-8f33-9c87f7af6740")
+	(paper "A4")
+	(title_block
+		(title "PSM")
+		(date "2026-09-10")
+		(rev "0")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "8")
+		)
+	)
+)
