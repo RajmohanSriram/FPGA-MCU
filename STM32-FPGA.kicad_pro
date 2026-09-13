@@ -662,43 +662,42 @@
         "uuid": "0d612cc7-7cb1-488a-a131-1e71117b8b3f"
       },
       {
-        "filename": "10m08sau324c8g_pwr.kicad_sch",
-        "name": "10M08SAU324C8G_PWR",
-        "uuid": "d1ecd166-19ef-487d-ad3e-02a0c454c0b2"
-      },
-      {
         "filename": "sdram.kicad_sch",
         "name": "SDRAM",
         "uuid": "a5dcf55a-c00b-44e4-be21-50af8ba3dde4"
       },
       {
-        "filename": "10m08sau324c8g_io_bnks.kicad_sch",
-        "name": "10M08SAU324C8G_IO_BNKS",
-        "uuid": "c8d90e9a-d6c1-4a8d-bf15-78392982d25f"
-      },
-      {
-        "filename": "10m08sau324c8g_io_dev.kicad_sch",
-        "name": "10M08SAU324C8G_IO_DEV",
-        "uuid": "6f33febc-2e34-49f2-8d9e-bcf322044257"
-      },
-      {
-        "filename": "10cl025yu256i7g.kicad_sch",
-        "name": "10CL025YU256C8G",
-        "uuid": "3d9d9420-8d96-469d-bd92-76c6a20f120d"
-      },
-      {
         "filename": "usb&power.kicad_sch",
         "name": "USB&POWER",
         "uuid": "4720819c-458b-4c35-80f2-39c5e3798f6f"
+      },
+      {
+        "filename": "10cl025yu256c8g.kicad_sch",
+        "name": "10CL025YU256C8G_PWR",
+        "uuid": "64cc7799-acaf-4a39-826d-69da7ed061f3"
+      },
+      {
+        "filename": "10cl025yu256c8g_io_bnks.kicad_sch",
+        "name": "10CL025YU256C8G_IO_BNKS",
+        "uuid": "e1888878-1772-42cd-960b-88256a9714a3"
+      },
+      {
+        "filename": "10cl025yu256c8g_intrfc.kicad_sch",
+        "name": "10CL025YU256C8G_INTRFC",
+        "uuid": "25484122-bfc1-4b3e-bc23-1d81f4a447c2"
       }
     ],
-    "used_designators": "#PWR3-11,#PWR31-40,#PWR43-162,C1-92,D1-10,FB1,J2-3,J5,Q1-6,R1-7,R10-71,SW1-17,U1-13,U13_1-2,X1,Y1-4",
+    "used_designators": "#PWR3-40,#PWR43-162,C1-92,D1-10,FB1-2,J2-5,Q1-6,R1-7,R10-71,SW1-17,U1-13,U13_1-2,X1,Y1-4",
     "variants": []
   },
   "sheets": [
     [
       "4b16efdc-62f8-4076-8c04-3e23b1eee06f",
       "ROOT"
+    ],
+    [
+      "4720819c-458b-4c35-80f2-39c5e3798f6f",
+      "USB&POWER"
     ],
     [
       "ec7f004b-4356-4f5c-8bcf-777a271cc592",
@@ -709,28 +708,20 @@
       "STM32F103C8T6"
     ],
     [
-      "d1ecd166-19ef-487d-ad3e-02a0c454c0b2",
-      "10M08SAU324C8G_PWR"
+      "64cc7799-acaf-4a39-826d-69da7ed061f3",
+      "10CL025YU256C8G_PWR"
     ],
     [
-      "c8d90e9a-d6c1-4a8d-bf15-78392982d25f",
-      "10M08SAU324C8G_IO_BNKS"
+      "e1888878-1772-42cd-960b-88256a9714a3",
+      "10CL025YU256C8G_IO_BNKS"
     ],
     [
       "a5dcf55a-c00b-44e4-be21-50af8ba3dde4",
       "SDRAM"
     ],
     [
-      "6f33febc-2e34-49f2-8d9e-bcf322044257",
-      "10M08SAU324C8G_IO_DEV"
-    ],
-    [
-      "3d9d9420-8d96-469d-bd92-76c6a20f120d",
-      "10CL025YU256C8G"
-    ],
-    [
-      "4720819c-458b-4c35-80f2-39c5e3798f6f",
-      "USB&POWER"
+      "25484122-bfc1-4b3e-bc23-1d81f4a447c2",
+      "10CL025YU256C8G_INTRFC"
     ]
   ],
   "text_variables": {},

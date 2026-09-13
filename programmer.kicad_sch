@@ -6649,7 +6649,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "7843fc11-302a-42f2-82d1-9c5259908bf1")
-		(property "Reference" "J?"
+		(property "Reference" "J4"
 			(at 242.57 126.238 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6720,7 +6720,7 @@
 		(instances
 			(project "STM32-FPGA"
 				(path "/ec7f004b-4356-4f5c-8bcf-777a271cc592"
-					(reference "J?")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -8856,7 +8856,7 @@
 	)
 	(sheet_instances
 		(path "/"
-			(page "2")
+			(page "3")
 		)
 	)
 )
