@@ -172,6 +172,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -183,6 +184,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -194,6 +196,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -645,7 +648,7 @@
     "top_level_sheets": [
       {
         "filename": "STM32-FPGA.kicad_sch",
-        "name": "USB&PWR",
+        "name": "ROOT",
         "uuid": "4b16efdc-62f8-4076-8c04-3e23b1eee06f"
       },
       {
@@ -677,15 +680,25 @@
         "filename": "10m08sau324c8g_io_dev.kicad_sch",
         "name": "10M08SAU324C8G_IO_DEV",
         "uuid": "6f33febc-2e34-49f2-8d9e-bcf322044257"
+      },
+      {
+        "filename": "10cl025yu256i7g.kicad_sch",
+        "name": "10CL025YU256C8G",
+        "uuid": "3d9d9420-8d96-469d-bd92-76c6a20f120d"
+      },
+      {
+        "filename": "usb&power.kicad_sch",
+        "name": "USB&POWER",
+        "uuid": "4720819c-458b-4c35-80f2-39c5e3798f6f"
       }
     ],
-    "used_designators": "#PWR3-5,#PWR31-40,#PWR43-162,C1-92,D1-10,FB1,J2-3,J5,Q1-6,R1-7,R10-71,SW1-17,U1-13,U13_1-2,X1,Y1-4",
+    "used_designators": "#PWR3-11,#PWR31-40,#PWR43-162,C1-92,D1-10,FB1,J2-3,J5,Q1-6,R1-7,R10-71,SW1-17,U1-13,U13_1-2,X1,Y1-4",
     "variants": []
   },
   "sheets": [
     [
       "4b16efdc-62f8-4076-8c04-3e23b1eee06f",
-      "USB&PWR"
+      "ROOT"
     ],
     [
       "ec7f004b-4356-4f5c-8bcf-777a271cc592",
@@ -710,6 +723,14 @@
     [
       "6f33febc-2e34-49f2-8d9e-bcf322044257",
       "10M08SAU324C8G_IO_DEV"
+    ],
+    [
+      "3d9d9420-8d96-469d-bd92-76c6a20f120d",
+      "10CL025YU256C8G"
+    ],
+    [
+      "4720819c-458b-4c35-80f2-39c5e3798f6f",
+      "USB&POWER"
     ]
   ],
   "text_variables": {},
