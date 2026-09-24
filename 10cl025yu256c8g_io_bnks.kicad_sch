@@ -5479,145 +5479,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+3V3"
-			(power global)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "+3V3"
-				(at 0 3.556 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+3V3\""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "+3V3_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+3V3_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -5733,6 +5594,145 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:VCC"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "VCC"
+				(at 0 3.556 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"VCC\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "VCC_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VCC_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(junction
 		(at 85.09 228.6)
@@ -5764,6 +5764,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 76.2) (xy 63.5 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e3046c9-3f15-413f-b614-e5b3cb5d4e89")
+	)
+	(wire
+		(pts
 			(xy 85.09 217.17) (xy 85.09 223.52)
 		)
 		(stroke
@@ -5771,6 +5781,16 @@
 			(type default)
 		)
 		(uuid "0eec769c-542d-4cc2-927c-fd7aa7ba7ea9")
+	)
+	(wire
+		(pts
+			(xy 46.99 68.58) (xy 63.5 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11309dff-66be-4f1b-a199-52edf2f86ecd")
 	)
 	(wire
 		(pts
@@ -5834,6 +5854,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 73.66) (xy 63.5 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "594c13f5-5fc4-4fce-a49a-f1e85828465a")
+	)
+	(wire
+		(pts
 			(xy 60.96 217.17) (xy 85.09 217.17)
 		)
 		(stroke
@@ -5844,16 +5874,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 247.65) (xy 48.26 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "683b02e9-963d-44c3-b0d6-1988479e783e")
-	)
-	(wire
-		(pts
 			(xy 78.74 223.52) (xy 85.09 223.52)
 		)
 		(stroke
@@ -5861,6 +5881,16 @@
 			(type default)
 		)
 		(uuid "689faddb-791a-4dd5-b8c7-6b91e7ef981a")
+	)
+	(wire
+		(pts
+			(xy 46.99 53.34) (xy 63.5 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b18a5d3-36a3-4af3-a3c3-0a02eb556969")
 	)
 	(wire
 		(pts
@@ -5904,6 +5934,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 71.12) (xy 63.5 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9006a130-a8bc-4180-9b57-7a4c5baa473e")
+	)
+	(wire
+		(pts
 			(xy 44.45 247.65) (xy 48.26 247.65)
 		)
 		(stroke
@@ -5914,6 +5954,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 245.11) (xy 48.26 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f0bed80-bf1c-4aec-bcc5-75ebc6adc887")
+	)
+	(wire
+		(pts
 			(xy 44.45 248.92) (xy 44.45 247.65)
 		)
 		(stroke
@@ -5921,6 +5971,16 @@
 			(type default)
 		)
 		(uuid "acbcd92d-7c80-4c8d-a495-64d234e2feb6")
+	)
+	(wire
+		(pts
+			(xy 46.99 78.74) (xy 63.5 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aea6aa8e-80e1-46cf-b476-0cb1a5024d96")
 	)
 	(wire
 		(pts
@@ -5954,6 +6014,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 66.04) (xy 63.5 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebe93303-e08e-471b-9bd9-3125eae0a02e")
+	)
+	(wire
+		(pts
 			(xy 44.45 256.54) (xy 44.45 261.62)
 		)
 		(stroke
@@ -5961,6 +6031,26 @@
 			(type default)
 		)
 		(uuid "fd2b9e06-11ce-4ee5-81a8-9d82bb40d239")
+	)
+	(label "FPGA_JTAG_TDO"
+		(at 46.99 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0d6183d9-407f-49f3-bb88-b1b511631150")
+	)
+	(label "FPGA_NCE"
+		(at 46.99 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1a112d18-1020-4163-aa1c-9fecabc3e012")
 	)
 	(label "FPGA_CLK_50MHz"
 		(at 43.18 228.6 0)
@@ -5971,6 +6061,16 @@
 			(justify left bottom)
 		)
 		(uuid "1e525b66-7171-413b-9d5d-11be65df278d")
+	)
+	(label "FPGA_NCOFIG"
+		(at 46.99 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "288b7bb9-c906-4d73-9bd8-76da1c7f01b4")
 	)
 	(label "FPGA_JTAG_TDI"
 		(at 58.42 261.62 0)
@@ -6003,6 +6103,26 @@
 		(uuid "6c734aa4-0acb-4434-aebf-dd0c614f56ec")
 	)
 	(label "FPGA_JTAG_TCK"
+		(at 46.99 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "866f0bb8-2c97-44ff-879c-614369bb521e")
+	)
+	(label "FPGA_JTAG_TDI"
+		(at 46.99 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b94a26a8-36ba-46b9-91be-6a220debcc6f")
+	)
+	(label "FPGA_JTAG_TCK"
 		(at 58.42 265.43 0)
 		(effects
 			(font
@@ -6011,6 +6131,26 @@
 			(justify left bottom)
 		)
 		(uuid "bfcbf1e3-da50-4203-81c3-c200eeaed490")
+	)
+	(label "FPGA_JTAG_TMS"
+		(at 46.99 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c88f1d39-7d40-4140-8c13-9b6afde91728")
+	)
+	(label "FPGA_NSTATUS"
+		(at 46.99 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cc07a8f2-1182-4820-9914-d804799baf38")
 	)
 	(global_label "PRFPGA_TDO"
 		(shape bidirectional)
@@ -9556,83 +9696,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 48.26 246.38 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "54df3d79-25f3-4c65-860a-ba95f8f0e4e3")
-		(property "Reference" "#PWR08"
-			(at 48.26 250.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3_FPGA"
-			(at 48.26 242.316 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 48.26 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 48.26 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f82ba2a0-f7a8-4dc8-95b7-18f7edb544c6")
-		)
-		(instances
-			(project "STM32-FPGA"
-				(path "/e1888878-1772-42cd-960b-88256a9714a3"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 57.15 276.86 0)
 		(unit 1)
@@ -10549,6 +10612,84 @@
 				(path "/e1888878-1772-42cd-960b-88256a9714a3"
 					(reference "U5")
 					(unit 9)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 48.26 245.11 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "99934fd7-fde4-4e5d-9708-f5fac1379652")
+		(property "Reference" "#PWR036"
+			(at 48.26 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CL10_VCC_D_PLL"
+			(at 40.132 241.046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 48.26 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "91acb901-32b9-4522-959b-4dc8881ea881")
+		)
+		(instances
+			(project "STM32-FPGA"
+				(path "/e1888878-1772-42cd-960b-88256a9714a3"
+					(reference "#PWR036")
+					(unit 1)
 				)
 			)
 		)

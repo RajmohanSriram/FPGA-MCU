@@ -210,7 +210,7 @@
 		)
 		(uuid "4b9c439b-2007-411c-b305-0761430f7712")
 	)
-	(text "2.5V, 1.8V, 1.2V"
+	(text "3.3V, 2.5V, 1.8V, 1.2V"
 		(exclude_from_sim no)
 		(at 93.472 71.882 0)
 		(effects

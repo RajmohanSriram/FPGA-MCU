@@ -6778,7 +6778,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 358.14 161.036 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7988,7 +7988,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 203.2 135.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8146,7 +8146,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 165.1 135.636 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8307,7 +8307,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 163.83 194.056 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8950,7 +8950,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 358.14 154.686 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9108,7 +9108,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 163.83 164.846 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9429,7 +9429,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 358.14 173.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10250,7 +10250,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 358.14 167.386 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10860,7 +10860,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 201.93 164.846 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13010,7 +13010,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 358.14 141.986 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13428,7 +13428,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 358.14 186.436 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14080,7 +14080,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 201.93 194.056 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14712,7 +14712,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 165.1 106.426 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15371,7 +15371,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 358.14 180.086 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15529,7 +15529,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 358.14 148.336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16014,7 +16014,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 201.93 220.726 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16841,7 +16841,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "1.5K"
 			(at 203.2 106.426 90)
 			(show_name no)
 			(do_not_autoplace no)

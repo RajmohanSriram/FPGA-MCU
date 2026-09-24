@@ -5715,6 +5715,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "All the power, decoupling and filtering connections are given as per the 10CL025 evaluation kit\n"
+		(exclude_from_sim no)
+		(at 227.33 161.798 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "76ebd857-2e22-4b88-a2f8-685f822292f6")
+	)
 	(junction
 		(at 39.37 153.67)
 		(diameter 0)
